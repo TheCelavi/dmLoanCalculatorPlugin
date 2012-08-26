@@ -1,0 +1,7 @@
+dmWidgetLoanCalculator:
+  
+  SimpleCalculator:
+    cache:              false
+    public_name:        Simple Calculator
+    form_class:         dmSimpleLoanCalculatorWidgetForm
+    view_class:         dmSimpleLoanCalculatorWidgetView

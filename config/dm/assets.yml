@@ -1,0 +1,7 @@
+js:
+  dmLoanCalculatorPlugin:
+    launch: launch
+    
+css:
+  dmLoanCalculatorPlugin:
+    theme: theme  

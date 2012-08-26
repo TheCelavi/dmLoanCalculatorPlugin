@@ -1,0 +1,6 @@
+div.dm_simple_loan_calculator_container label {
+    display: block;
+}
+div.dm_simple_loan_calculator_container li {
+    list-style-type: none;
+}
